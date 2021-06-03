@@ -8,3 +8,8 @@ def is_leap(year):
 
 year = int(input())
 print(is_leap(year))
+
+
+s=input("my-name-pawan")
+c="-".reversed(s)
+print(c)
